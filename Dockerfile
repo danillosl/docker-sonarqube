@@ -1,4 +1,4 @@
-FROM danillosl/oracle_java:latest 
+FROM danillosl/oracle_java 
 
 MAINTAINER Danillo Lisboa <danillosl@gmail.com>
 

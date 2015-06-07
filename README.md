@@ -5,7 +5,7 @@ This sonarqube image use:
   - sonarqube 5.1
 
 
-### Installation
+### Run sonarqube
 
 ```sh
 sudo docker run -d --name sonarqube -p 9000:9000 danillosl/docker-sonarqube
